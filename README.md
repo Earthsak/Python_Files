@@ -21,7 +21,7 @@ pandas library
 
 # Installing
 
-Install Anaconda Navigator to use Jypter Notebook or Collab
+Install Anaconda Navigator to use Jypter Notebook or Collab \n
 Ensure the dataset youtube_dataset.csv is in the project directory.
 
 
